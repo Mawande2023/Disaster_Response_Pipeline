@@ -85,3 +85,4 @@
 <p dir="auto">This app was completed as part of the <a href="https://www.udacity.com/course/data-scientist-nanodegree--nd025" rel="nofollow">Udacity Data Scientist Nanodegree</a>.</p>
 <p dir="auto">Special thanks to Figure Eight for providing the datasets and giving me the chance to do this project.</p>
 
+# Disaster_Response_Pipeline
